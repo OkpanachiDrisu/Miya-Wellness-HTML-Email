@@ -1,2 +1,2 @@
 # Miya-Wellness-HTML-Email
-Miya Wellness HTMLEmail
+Miya Wellness HTML Email
